@@ -1,0 +1,7 @@
+.vscode
+include
+lib
+Scripts
+chromedriver.exe
+*.log
+pyvenv.cfg
